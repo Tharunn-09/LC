@@ -809,6 +809,15 @@
       "solved_at": "2026-09-07T20:30:52.740495+05:30",
       "date": "2026-09-07",
       "winner_model": "Groq"
+    },
+    "kth-distinct-string-in-an-array": {
+      "title": "Kth Distinct String in an Array",
+      "frontend_id": "2053",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-07T23:31:19.457143+05:30",
+      "date": "2026-09-07",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -874,8 +883,8 @@
     },
     "2026-09-07": {
       "potd": 1,
-      "extra": 8,
-      "total": 9
+      "extra": 9,
+      "total": 10
     }
   }
 }
