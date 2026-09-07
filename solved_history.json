@@ -800,6 +800,15 @@
       "solved_at": "2026-09-07T18:33:16.393261+05:30",
       "date": "2026-09-07",
       "winner_model": "Gemini"
+    },
+    "next-greater-element-i": {
+      "title": "Next Greater Element I",
+      "frontend_id": "496",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-07T20:30:52.740495+05:30",
+      "date": "2026-09-07",
+      "winner_model": "Groq"
     }
   },
   "daily_counts": {
@@ -865,8 +874,8 @@
     },
     "2026-09-07": {
       "potd": 1,
-      "extra": 7,
-      "total": 8
+      "extra": 8,
+      "total": 9
     }
   }
 }
