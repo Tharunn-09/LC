@@ -765,6 +765,7 @@
       "date": "2026-09-07",
       "winner_model": "Gemini"
     },
+<<<<<<< HEAD
     "minimum-sum-of-four-digit-number-after-splitting-digits": {
       "title": "Minimum Sum of Four Digit Number After Splitting Digits",
       "frontend_id": "2160",
@@ -825,6 +826,15 @@
       "difficulty": "Easy",
       "mode": "potd",
       "solved_at": "2026-09-08T07:00:54.465026+05:30",
+      "date": "2026-09-08",
+      "winner_model": "Gemini"
+    },
+    "maximum-69-number": {
+      "title": "Maximum 69 Number",
+      "frontend_id": "1323",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-08T12:28:10.434678+05:30",
       "date": "2026-09-08",
       "winner_model": "Gemini"
     }
@@ -897,8 +907,8 @@
     },
     "2026-09-08": {
       "potd": 1,
-      "extra": 0,
-      "total": 1
+      "extra": 1,
+      "total": 2
     }
   }
 }

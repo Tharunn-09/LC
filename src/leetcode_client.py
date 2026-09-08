@@ -1,5 +1,11 @@
 import time
 import random
+try:
+    from curl_cffi import requests as curl_requests
+    HAS_CURL_CFFI = True
+except ImportError:
+    import requests as curl_requests
+    HAS_CURL_CFFI = False
 import requests
 from typing import Dict, Any, Optional, List, Set
 from src.logger import log_info, log_error, log_warning, log_success
@@ -21,13 +27,23 @@ class LeetCodeClient:
     def __init__(self, session_cookie: Optional[str] = None, csrf_token: Optional[str] = None):
         self.session_cookie = self._clean_token(session_cookie)
         self.csrf_token = self._clean_token(csrf_token)
-        self.session = requests.Session()
+        if HAS_CURL_CFFI:
+            self.session = curl_requests.Session(impersonate="chrome124")
+        else:
+            self.session = requests.Session()
         self.headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
             "Content-Type": "application/json",
             "Referer": "https://leetcode.com",
             "Origin": "https://leetcode.com",
             "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.9",
+            "sec-ch-ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": '"Windows"',
+            "sec-fetch-dest": "empty",
+            "sec-fetch-mode": "cors",
+            "sec-fetch-site": "same-origin",
         }
         self.session.headers.update(self.headers)
         
