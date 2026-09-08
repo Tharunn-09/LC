@@ -8,13 +8,22 @@
       "solved_at": "2026-09-08T12:53:46.168157+05:30",
       "date": "2026-09-08",
       "winner_model": "Gemini"
+    },
+    "count-the-number-of-consistent-strings": {
+      "title": "Count the Number of Consistent Strings",
+      "frontend_id": "1684",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-08T14:31:22.726179+05:30",
+      "date": "2026-09-08",
+      "winner_model": "Groq"
     }
   },
   "daily_counts": {
     "2026-09-08": {
       "potd": 0,
-      "extra": 1,
-      "total": 1
+      "extra": 2,
+      "total": 2
     }
   }
 }
