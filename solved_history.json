@@ -17,13 +17,22 @@
       "solved_at": "2026-09-08T14:31:22.726179+05:30",
       "date": "2026-09-08",
       "winner_model": "Groq"
+    },
+    "integer-break": {
+      "title": "Integer Break",
+      "frontend_id": "343",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-08T18:31:17.857150+05:30",
+      "date": "2026-09-08",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
     "2026-09-08": {
       "potd": 0,
-      "extra": 2,
-      "total": 2
+      "extra": 3,
+      "total": 3
     }
   }
 }
