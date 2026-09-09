@@ -44,6 +44,15 @@
       "solved_at": "2026-09-08T23:30:58.520496+05:30",
       "date": "2026-09-08",
       "winner_model": "Gemini"
+    },
+    "count-commas-in-range-ii": {
+      "title": "Count Commas in Range II",
+      "frontend_id": "3871",
+      "difficulty": "Medium",
+      "mode": "potd",
+      "solved_at": "2026-09-09T07:01:15.806345+05:30",
+      "date": "2026-09-09",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -51,6 +60,11 @@
       "potd": 0,
       "extra": 5,
       "total": 5
+    },
+    "2026-09-09": {
+      "potd": 1,
+      "extra": 0,
+      "total": 1
     }
   }
 }
