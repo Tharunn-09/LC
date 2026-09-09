@@ -80,6 +80,15 @@
       "solved_at": "2026-09-09T18:31:19.889241+05:30",
       "date": "2026-09-09",
       "winner_model": "Gemini"
+    },
+    "path-sum-iii": {
+      "title": "Path Sum III",
+      "frontend_id": "437",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-09T20:31:11.888484+05:30",
+      "date": "2026-09-09",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -90,8 +99,8 @@
     },
     "2026-09-09": {
       "potd": 1,
-      "extra": 3,
-      "total": 4
+      "extra": 4,
+      "total": 5
     }
   }
 }
