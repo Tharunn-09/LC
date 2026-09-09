@@ -62,6 +62,15 @@
       "solved_at": "2026-09-09T10:30:52.887119+05:30",
       "date": "2026-09-09",
       "winner_model": "Gemini"
+    },
+    "binary-tree-pruning": {
+      "title": "Binary Tree Pruning",
+      "frontend_id": "814",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-09T14:31:05.283159+05:30",
+      "date": "2026-09-09",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -72,8 +81,8 @@
     },
     "2026-09-09": {
       "potd": 1,
-      "extra": 1,
-      "total": 2
+      "extra": 2,
+      "total": 3
     }
   }
 }
