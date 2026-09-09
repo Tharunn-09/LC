@@ -71,6 +71,15 @@
       "solved_at": "2026-09-09T14:31:05.283159+05:30",
       "date": "2026-09-09",
       "winner_model": "Gemini"
+    },
+    "letter-case-permutation": {
+      "title": "Letter Case Permutation",
+      "frontend_id": "784",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-09T18:31:19.889241+05:30",
+      "date": "2026-09-09",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -81,8 +90,8 @@
     },
     "2026-09-09": {
       "potd": 1,
-      "extra": 2,
-      "total": 3
+      "extra": 3,
+      "total": 4
     }
   }
 }
