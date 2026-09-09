@@ -53,6 +53,15 @@
       "solved_at": "2026-09-09T07:01:15.806345+05:30",
       "date": "2026-09-09",
       "winner_model": "Gemini"
+    },
+    "distribute-candies-among-children-i": {
+      "title": "Distribute Candies Among Children I",
+      "frontend_id": "2928",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-09T10:30:52.887119+05:30",
+      "date": "2026-09-09",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -63,8 +72,8 @@
     },
     "2026-09-09": {
       "potd": 1,
-      "extra": 0,
-      "total": 1
+      "extra": 1,
+      "total": 2
     }
   }
 }
