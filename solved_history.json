@@ -134,6 +134,15 @@
       "solved_at": "2026-09-10T18:30:54.484026+05:30",
       "date": "2026-09-10",
       "winner_model": "Gemini"
+    },
+    "gas-station": {
+      "title": "Gas Station",
+      "frontend_id": "134",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-10T20:31:11.097861+05:30",
+      "date": "2026-09-10",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -149,8 +158,8 @@
     },
     "2026-09-10": {
       "potd": 1,
-      "extra": 3,
-      "total": 4
+      "extra": 4,
+      "total": 5
     }
   }
 }
