@@ -143,6 +143,15 @@
       "solved_at": "2026-09-10T20:31:11.097861+05:30",
       "date": "2026-09-10",
       "winner_model": "Gemini"
+    },
+    "defanging-an-ip-address": {
+      "title": "Defanging an IP Address",
+      "frontend_id": "1108",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-10T23:30:52.414031+05:30",
+      "date": "2026-09-10",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -158,8 +167,8 @@
     },
     "2026-09-10": {
       "potd": 1,
-      "extra": 4,
-      "total": 5
+      "extra": 5,
+      "total": 6
     }
   }
 }
