@@ -125,6 +125,15 @@
       "solved_at": "2026-09-10T14:30:53.944183+05:30",
       "date": "2026-09-10",
       "winner_model": "Gemini"
+    },
+    "find-the-duplicate-number": {
+      "title": "Find the Duplicate Number",
+      "frontend_id": "287",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-10T18:30:54.484026+05:30",
+      "date": "2026-09-10",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -140,8 +149,8 @@
     },
     "2026-09-10": {
       "potd": 1,
-      "extra": 2,
-      "total": 3
+      "extra": 3,
+      "total": 4
     }
   }
 }
