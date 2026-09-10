@@ -116,6 +116,15 @@
       "solved_at": "2026-09-10T10:31:06.845743+05:30",
       "date": "2026-09-10",
       "winner_model": "Gemini"
+    },
+    "k-th-symbol-in-grammar": {
+      "title": "K-th Symbol in Grammar",
+      "frontend_id": "779",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-10T14:30:53.944183+05:30",
+      "date": "2026-09-10",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -131,8 +140,8 @@
     },
     "2026-09-10": {
       "potd": 1,
-      "extra": 1,
-      "total": 2
+      "extra": 2,
+      "total": 3
     }
   }
 }
