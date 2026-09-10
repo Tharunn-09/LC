@@ -98,6 +98,15 @@
       "solved_at": "2026-09-09T23:31:49.315522+05:30",
       "date": "2026-09-09",
       "winner_model": "Gemini"
+    },
+    "count-nodes-equal-to-average-of-subtree": {
+      "title": "Count Nodes Equal to Average of Subtree",
+      "frontend_id": "2265",
+      "difficulty": "Medium",
+      "mode": "potd",
+      "solved_at": "2026-09-10T07:00:55.842127+05:30",
+      "date": "2026-09-10",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -110,6 +119,11 @@
       "potd": 1,
       "extra": 5,
       "total": 6
+    },
+    "2026-09-10": {
+      "potd": 1,
+      "extra": 0,
+      "total": 1
     }
   }
 }
