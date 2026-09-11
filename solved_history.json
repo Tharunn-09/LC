@@ -152,6 +152,15 @@
       "solved_at": "2026-09-10T23:30:52.414031+05:30",
       "date": "2026-09-10",
       "winner_model": "Gemini"
+    },
+    "unique-3-digit-even-numbers": {
+      "title": "Unique 3-Digit Even Numbers",
+      "frontend_id": "3483",
+      "difficulty": "Easy",
+      "mode": "potd",
+      "solved_at": "2026-09-11T07:01:35.187579+05:30",
+      "date": "2026-09-11",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -169,6 +178,11 @@
       "potd": 1,
       "extra": 5,
       "total": 6
+    },
+    "2026-09-11": {
+      "potd": 1,
+      "extra": 0,
+      "total": 1
     }
   }
 }
