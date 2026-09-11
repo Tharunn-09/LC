@@ -197,6 +197,15 @@
       "solved_at": "2026-09-11T20:31:14.424957+05:30",
       "date": "2026-09-11",
       "winner_model": "Gemini"
+    },
+    "lru-cache": {
+      "title": "LRU Cache",
+      "frontend_id": "146",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-11T23:31:18.215489+05:30",
+      "date": "2026-09-11",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -217,8 +226,8 @@
     },
     "2026-09-11": {
       "potd": 1,
-      "extra": 4,
-      "total": 5
+      "extra": 5,
+      "total": 6
     }
   }
 }
