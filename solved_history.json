@@ -170,6 +170,15 @@
       "solved_at": "2026-09-11T10:31:17.808061+05:30",
       "date": "2026-09-11",
       "winner_model": "Groq"
+    },
+    "count-items-matching-a-rule": {
+      "title": "Count Items Matching a Rule",
+      "frontend_id": "1773",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-11T14:31:07.832005+05:30",
+      "date": "2026-09-11",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -190,8 +199,8 @@
     },
     "2026-09-11": {
       "potd": 1,
-      "extra": 1,
-      "total": 2
+      "extra": 2,
+      "total": 3
     }
   }
 }
