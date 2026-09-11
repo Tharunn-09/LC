@@ -188,6 +188,15 @@
       "solved_at": "2026-09-11T18:30:59.083805+05:30",
       "date": "2026-09-11",
       "winner_model": "Groq"
+    },
+    "wiggle-subsequence": {
+      "title": "Wiggle Subsequence",
+      "frontend_id": "376",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-11T20:31:14.424957+05:30",
+      "date": "2026-09-11",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -208,8 +217,8 @@
     },
     "2026-09-11": {
       "potd": 1,
-      "extra": 3,
-      "total": 4
+      "extra": 4,
+      "total": 5
     }
   }
 }
