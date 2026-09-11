@@ -161,6 +161,15 @@
       "solved_at": "2026-09-11T07:01:35.187579+05:30",
       "date": "2026-09-11",
       "winner_model": "Gemini"
+    },
+    "check-if-a-string-is-an-acronym-of-words": {
+      "title": "Check if a String Is an Acronym of Words",
+      "frontend_id": "2828",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-11T10:31:17.808061+05:30",
+      "date": "2026-09-11",
+      "winner_model": "Groq"
     }
   },
   "daily_counts": {
@@ -181,8 +190,8 @@
     },
     "2026-09-11": {
       "potd": 1,
-      "extra": 0,
-      "total": 1
+      "extra": 1,
+      "total": 2
     }
   }
 }
