@@ -206,6 +206,15 @@
       "solved_at": "2026-09-11T23:31:18.215489+05:30",
       "date": "2026-09-11",
       "winner_model": "Gemini"
+    },
+    "maximum-score-of-non-overlapping-intervals": {
+      "title": "Maximum Score of Non-overlapping Intervals",
+      "frontend_id": "3414",
+      "difficulty": "Hard",
+      "mode": "potd",
+      "solved_at": "2026-09-12T07:01:34.912388+05:30",
+      "date": "2026-09-12",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -228,6 +237,11 @@
       "potd": 1,
       "extra": 5,
       "total": 6
+    },
+    "2026-09-12": {
+      "potd": 1,
+      "extra": 0,
+      "total": 1
     }
   }
 }
