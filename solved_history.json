@@ -224,6 +224,15 @@
       "solved_at": "2026-09-12T10:31:35.880109+05:30",
       "date": "2026-09-12",
       "winner_model": "Groq"
+    },
+    "car-fleet": {
+      "title": "Car Fleet",
+      "frontend_id": "853",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-12T14:30:59.569659+05:30",
+      "date": "2026-09-12",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -249,8 +258,8 @@
     },
     "2026-09-12": {
       "potd": 1,
-      "extra": 1,
-      "total": 2
+      "extra": 2,
+      "total": 3
     }
   }
 }
