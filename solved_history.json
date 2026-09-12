@@ -242,6 +242,15 @@
       "solved_at": "2026-09-12T18:31:06.503616+05:30",
       "date": "2026-09-12",
       "winner_model": "Gemini"
+    },
+    "maximum-depth-of-binary-tree": {
+      "title": "Maximum Depth of Binary Tree",
+      "frontend_id": "104",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-12T20:31:06.094649+05:30",
+      "date": "2026-09-12",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -267,8 +276,8 @@
     },
     "2026-09-12": {
       "potd": 1,
-      "extra": 3,
-      "total": 4
+      "extra": 4,
+      "total": 5
     }
   }
 }
