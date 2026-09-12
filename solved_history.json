@@ -233,6 +233,15 @@
       "solved_at": "2026-09-12T14:30:59.569659+05:30",
       "date": "2026-09-12",
       "winner_model": "Gemini"
+    },
+    "add-strings": {
+      "title": "Add Strings",
+      "frontend_id": "415",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-12T18:31:06.503616+05:30",
+      "date": "2026-09-12",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -258,8 +267,8 @@
     },
     "2026-09-12": {
       "potd": 1,
-      "extra": 2,
-      "total": 3
+      "extra": 3,
+      "total": 4
     }
   }
 }
