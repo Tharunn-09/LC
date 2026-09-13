@@ -278,6 +278,15 @@
       "solved_at": "2026-09-13T10:31:33.141185+05:30",
       "date": "2026-09-13",
       "winner_model": "Gemini"
+    },
+    "merge-two-sorted-lists": {
+      "title": "Merge Two Sorted Lists",
+      "frontend_id": "21",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-13T18:30:57.694437+05:30",
+      "date": "2026-09-13",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -308,8 +317,8 @@
     },
     "2026-09-13": {
       "potd": 1,
-      "extra": 1,
-      "total": 2
+      "extra": 2,
+      "total": 3
     }
   }
 }
