@@ -269,6 +269,15 @@
       "solved_at": "2026-09-13T07:00:48.605713+05:30",
       "date": "2026-09-13",
       "winner_model": "Gemini"
+    },
+    "count-days-spent-together": {
+      "title": "Count Days Spent Together",
+      "frontend_id": "2409",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-13T10:31:33.141185+05:30",
+      "date": "2026-09-13",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -299,8 +308,8 @@
     },
     "2026-09-13": {
       "potd": 1,
-      "extra": 0,
-      "total": 1
+      "extra": 1,
+      "total": 2
     }
   }
 }
