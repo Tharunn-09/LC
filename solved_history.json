@@ -260,6 +260,15 @@
       "solved_at": "2026-09-12T23:31:01.655233+05:30",
       "date": "2026-09-12",
       "winner_model": "Gemini"
+    },
+    "image-overlap": {
+      "title": "Image Overlap",
+      "frontend_id": "835",
+      "difficulty": "Medium",
+      "mode": "potd",
+      "solved_at": "2026-09-13T07:00:48.605713+05:30",
+      "date": "2026-09-13",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -287,6 +296,11 @@
       "potd": 1,
       "extra": 5,
       "total": 6
+    },
+    "2026-09-13": {
+      "potd": 1,
+      "extra": 0,
+      "total": 1
     }
   }
 }
