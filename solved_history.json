@@ -296,6 +296,15 @@
       "solved_at": "2026-09-13T20:31:20.610708+05:30",
       "date": "2026-09-13",
       "winner_model": "Gemini"
+    },
+    "day-of-the-week": {
+      "title": "Day of the Week",
+      "frontend_id": "1185",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-13T23:31:01.647798+05:30",
+      "date": "2026-09-13",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -326,8 +335,8 @@
     },
     "2026-09-13": {
       "potd": 1,
-      "extra": 3,
-      "total": 4
+      "extra": 4,
+      "total": 5
     }
   }
 }
