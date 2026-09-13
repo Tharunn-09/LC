@@ -287,6 +287,15 @@
       "solved_at": "2026-09-13T18:30:57.694437+05:30",
       "date": "2026-09-13",
       "winner_model": "Gemini"
+    },
+    "majority-element-ii": {
+      "title": "Majority Element II",
+      "frontend_id": "229",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-13T20:31:20.610708+05:30",
+      "date": "2026-09-13",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -317,8 +326,8 @@
     },
     "2026-09-13": {
       "potd": 1,
-      "extra": 2,
-      "total": 3
+      "extra": 3,
+      "total": 4
     }
   }
 }
