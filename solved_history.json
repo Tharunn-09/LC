@@ -323,6 +323,15 @@
       "solved_at": "2026-09-14T10:31:13.497411+05:30",
       "date": "2026-09-14",
       "winner_model": "Gemini"
+    },
+    "minimum-depth-of-binary-tree": {
+      "title": "Minimum Depth of Binary Tree",
+      "frontend_id": "111",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-14T14:32:47.762765+05:30",
+      "date": "2026-09-14",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -358,8 +367,8 @@
     },
     "2026-09-14": {
       "potd": 1,
-      "extra": 1,
-      "total": 2
+      "extra": 2,
+      "total": 3
     }
   }
 }
