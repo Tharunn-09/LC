@@ -332,6 +332,15 @@
       "solved_at": "2026-09-14T14:32:47.762765+05:30",
       "date": "2026-09-14",
       "winner_model": "Gemini"
+    },
+    "partition-array-into-disjoint-intervals": {
+      "title": "Partition Array into Disjoint Intervals",
+      "frontend_id": "915",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-14T18:31:13.288339+05:30",
+      "date": "2026-09-14",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -367,8 +376,8 @@
     },
     "2026-09-14": {
       "potd": 1,
-      "extra": 2,
-      "total": 3
+      "extra": 3,
+      "total": 4
     }
   }
 }
