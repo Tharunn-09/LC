@@ -395,6 +395,15 @@
       "solved_at": "2026-09-15T18:31:21.202862+05:30",
       "date": "2026-09-15",
       "winner_model": "Gemini"
+    },
+    "can-i-win": {
+      "title": "Can I Win",
+      "frontend_id": "464",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-15T20:31:13.460770+05:30",
+      "date": "2026-09-15",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -435,8 +444,8 @@
     },
     "2026-09-15": {
       "potd": 1,
-      "extra": 3,
-      "total": 4
+      "extra": 4,
+      "total": 5
     }
   }
 }
