@@ -368,6 +368,15 @@
       "solved_at": "2026-09-15T07:01:00.248121+05:30",
       "date": "2026-09-15",
       "winner_model": "Gemini"
+    },
+    "is-subsequence": {
+      "title": "Is Subsequence",
+      "frontend_id": "392",
+      "difficulty": "Easy",
+      "mode": "extra",
+      "solved_at": "2026-09-15T10:30:57.957645+05:30",
+      "date": "2026-09-15",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -408,8 +417,8 @@
     },
     "2026-09-15": {
       "potd": 1,
-      "extra": 0,
-      "total": 1
+      "extra": 1,
+      "total": 2
     }
   }
 }
