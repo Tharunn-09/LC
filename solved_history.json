@@ -377,6 +377,15 @@
       "solved_at": "2026-09-15T10:30:57.957645+05:30",
       "date": "2026-09-15",
       "winner_model": "Gemini"
+    },
+    "count-primes": {
+      "title": "Count Primes",
+      "frontend_id": "204",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-15T14:32:00.746979+05:30",
+      "date": "2026-09-15",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -417,8 +426,8 @@
     },
     "2026-09-15": {
       "potd": 1,
-      "extra": 1,
-      "total": 2
+      "extra": 2,
+      "total": 3
     }
   }
 }
