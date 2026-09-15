@@ -359,6 +359,15 @@
       "solved_at": "2026-09-14T23:31:04.086731+05:30",
       "date": "2026-09-14",
       "winner_model": "Gemini"
+    },
+    "maximum-number-of-non-overlapping-palindrome-substrings": {
+      "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+      "frontend_id": "2472",
+      "difficulty": "Hard",
+      "mode": "potd",
+      "solved_at": "2026-09-15T07:01:00.248121+05:30",
+      "date": "2026-09-15",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -396,6 +405,11 @@
       "potd": 1,
       "extra": 5,
       "total": 6
+    },
+    "2026-09-15": {
+      "potd": 1,
+      "extra": 0,
+      "total": 1
     }
   }
 }
