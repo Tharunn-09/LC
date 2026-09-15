@@ -404,6 +404,15 @@
       "solved_at": "2026-09-15T20:31:13.460770+05:30",
       "date": "2026-09-15",
       "winner_model": "Gemini"
+    },
+    "construct-binary-tree-from-preorder-and-postorder-traversal": {
+      "title": "Construct Binary Tree from Preorder and Postorder Traversal",
+      "frontend_id": "889",
+      "difficulty": "Medium",
+      "mode": "extra",
+      "solved_at": "2026-09-15T23:31:13.005145+05:30",
+      "date": "2026-09-15",
+      "winner_model": "Gemini"
     }
   },
   "daily_counts": {
@@ -444,8 +453,8 @@
     },
     "2026-09-15": {
       "potd": 1,
-      "extra": 4,
-      "total": 5
+      "extra": 5,
+      "total": 6
     }
   }
 }
